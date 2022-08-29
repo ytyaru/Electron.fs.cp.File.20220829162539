@@ -6,9 +6,19 @@
 
 # ブツ
 
-* [][]
+* [リポジトリ][]
 
-[]:
+[リポジトリ]:https://github.com/ytyaru/Electron.fs.cp.File.20220829162539
+
+## インストール＆実行
+
+```sh
+NAME='Electron.fs.cp.File.20220829162539'
+git clone https://github.com/ytyaru/$NAME
+cd $NAME
+npm install
+npm start
+```
 
 # [fs.cp][]
 
